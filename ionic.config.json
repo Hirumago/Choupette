@@ -1,0 +1,7 @@
+{
+  "name": "Choupette",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
